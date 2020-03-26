@@ -1,0 +1,21 @@
+{
+  "name": "dobrother",
+  "version": "1.0.4",
+  "description": "Library for multilingual verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lang",
+    "verification"
+  ],
+  "author": "LDK",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "bin": {
+    "rns" : "./index.js"
+  }
+}
